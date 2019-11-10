@@ -1,0 +1,18 @@
+C:\Maet\Projects\Scala\quuux\Scatils\bin;C:\Maet\Software\EclipseScala\configuration\org.eclipse.osgi\bundles\359\1\.cp\lib\scala-swing.jar;C:\Maet\Software\EclipseScala\configuration\org.eclipse.osgi\bundles\359\1\.cp\lib\scala-actors.jar;C:\Maet\Software\EclipseScala\configuration\org.eclipse.osgi\bundles\358\1\.cp\lib\scala-reflect.jar;C:\Maet\Software\EclipseScala\configuration\org.eclipse.osgi\bundles\359\1\.cp\lib\scala-library.jar
+-------
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\CMD.scala
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\i18n.scala -> C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\i18n.scala
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\CMD.scala -> C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\CMD.scala
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\IO.scala -> C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\IO.scala
+-------
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\error$.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\error.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\error$ErrorHandler.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\error.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\error$$anonfun$writeErrorLog$1.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\i18n.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\i18n$.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\i18n.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\i18n.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\CMD.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\cmd.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\CMD.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\cmd$.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\IO.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\io$.class
+C:\Maet\Projects\Scala\quuux\Scatils\src\quuux\scatils\IO.scala -> C:\Maet\Projects\Scala\quuux\Scatils\bin\quuux\scatils\io.class
